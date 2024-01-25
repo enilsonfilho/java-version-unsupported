@@ -10,6 +10,9 @@ A tabela a seguir mostra as versões do Java e suas respectivas versões de arqu
 
 | Versão do Java	| Versão do Arquivo de Classe 
 | --------------  | --------------------------- 
+| Java SE 22	    | 66
+| Java SE 21	    | 65
+| Java SE 20	    | 64
 | Java SE 19	    | 63                          
 | Java SE 18	    | 62
 | Java SE 17	    | 61
